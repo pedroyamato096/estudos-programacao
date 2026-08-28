@@ -11,7 +11,7 @@ try
         nomeProduto = Console.ReadLine();
     } while (String.IsNullOrEmpty(nomeProduto));
 
-    estoque.ValidarNomeProduto(nomeProduto);
+    estoque.EntrarNomeProduto(nomeProduto);
 }
 catch (ArgumentException ex)
 {
