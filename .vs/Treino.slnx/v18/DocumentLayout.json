@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Treino\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{138C4259-750A-43C4-9B57-EBCDD9C20E65}|ControleEstoque\\ControleEstoque.csproj|c:\\users\\usuario\\source\\repos\\treino\\controleestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138C4259-750A-43C4-9B57-EBCDD9C20E65}|ControleEstoque\\ControleEstoque.csproj|solutionrelative:controleestoque\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138C4259-750A-43C4-9B57-EBCDD9C20E65}|ControleEstoque\\ControleEstoque.csproj|c:\\users\\usuario\\source\\repos\\treino\\controleestoque\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138C4259-750A-43C4-9B57-EBCDD9C20E65}|ControleEstoque\\ControleEstoque.csproj|solutionrelative:controleestoque\\models\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{138C4259-750A-43C4-9B57-EBCDD9C20E65}|ControleEstoque\\ControleEstoque.csproj|c:\\users\\usuario\\source\\repos\\treino\\controleestoque\\util\\validacoesinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{138C4259-750A-43C4-9B57-EBCDD9C20E65}|ControleEstoque\\ControleEstoque.csproj|solutionrelative:controleestoque\\util\\validacoesinput.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValidacoesInput.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Treino\\ControleEstoque\\Util\\ValidacoesInput.cs",
+              "RelativeDocumentMoniker": "ControleEstoque\\Util\\ValidacoesInput.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Treino\\ControleEstoque\\Util\\ValidacoesInput.cs",
+              "RelativeToolTip": "ControleEstoque\\Util\\ValidacoesInput.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-28T00:40:39.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Estoque.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Treino\\ControleEstoque\\Models\\Estoque.cs",
+              "RelativeDocumentMoniker": "ControleEstoque\\Models\\Estoque.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Treino\\ControleEstoque\\Models\\Estoque.cs",
+              "RelativeToolTip": "ControleEstoque\\Models\\Estoque.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAYwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T17:02:52.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Treino\\ControleEstoque\\Program.cs",
+              "RelativeDocumentMoniker": "ControleEstoque\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Treino\\ControleEstoque\\Program.cs",
+              "RelativeToolTip": "ControleEstoque\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-27T18:36:13.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
