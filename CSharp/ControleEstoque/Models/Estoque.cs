@@ -1,4 +1,5 @@
-﻿using System.Linq;
+﻿using System.Globalization;
+using System.Linq;
 using ControleEstoque.Util;
 
 namespace ControleEstoque.Models
@@ -27,10 +28,11 @@ namespace ControleEstoque.Models
         public int QtdVendida { get; private set; }
 
 
-        public void ValidarNomeProduto(string nome)
+        public string ValidarNomeProduto(string nome)
         {
             ValidacoesInput validar = new ValidacoesInput();
-            NomeProduto = validar.EntrarString(nome);
+            string nomeProduto = validar.EntrarString(nome);
+            return nomeProduto;
         }
 
         public void ValidarEstoque(int estoque)
@@ -40,6 +42,12 @@ namespace ControleEstoque.Models
             }
 
             QtdEstoque = estoque;
+        }
+
+        public void EntrarNomeProduto(string nome)
+        {
+            string produto = ValidarNomeProduto(nome);
+            NomeProduto = produto;
         }
 
         public void EntrarEstoqueMinimo( int entrada)
