@@ -60,9 +60,11 @@ namespace ControleEstoque.Models
             EstoqueMaximo = entrada;
         }
 
-        public void EntrarQtdVendida(int entrada)
-        {
-            QtdVendida = entrada;
-        }
+        //public void EntrarQtdVendida(int entrada)
+        //{
+        //    QtdVendida = entrada;
+        //}
+
+        ///////
     }
 }
